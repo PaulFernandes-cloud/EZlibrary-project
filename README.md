@@ -30,6 +30,7 @@ Project Description: This is a free ebook library website where users can read a
 * Browse the selection of ebooks or search for a specific book.
 * To read a book, simply click on the cover.
 * To buy a book, click on the "Buy" button and follow the instructions.
+* To read any book go to the library section and click on the "Read book" button.
 
 ### Screenshots:
 
