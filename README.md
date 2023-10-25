@@ -1,4 +1,4 @@
-# EZlibrary-project
+# EZLibrary using Azure Services
 This is a repository for our project documentation
 In this repository, you will find:
 1. Link to our Project - [EZLibrary](https://ezlibrary.online/)
@@ -7,9 +7,9 @@ In this repository, you will find:
 3. Link to our Project Overview Video - [EZlibrary Project By Paul Fernandes & Shubham Chougule](https://youtu.be/6nYVCngpPgk?si=fSZuwrJnhH2yXtcH)
 
 
-## Project Title: Ebook Library using Azure Services
+## Project Title: EZLibrary using Azure Services
 
-Project Description: This is a free ebook library website where users can read and buy ebooks. The website is hosted on two Azure VMs and load balanced using an Application Gateway. The VMs are backed up using Recovery Service Vault. The website also features Azure Personalizer to recommend books to users. The website's domain name is ezlibrary.online, which is registered with Namecheap. A DNS zone has been created in Azure and its nameservers have been delegated to Namecheap.
+Project Description: This is a free ebook library website where users can read and buy ebooks. The website is hosted on two Azure VMs and load balanced using an Application Gateway. The VMs are backed up using Recovery Service Vault. The website also features Azure Personalizer to recommend books to users. The website's domain name is [ezlibrary.online](https://ezlibrary.online/), which is registered with Namecheap. A DNS zone has been created in Azure and its nameservers have been delegated to Namecheap.
 
 ### Azure Services Used:
 
