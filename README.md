@@ -1,5 +1,5 @@
 # EZLibrary using Azure Services
-This is a repository for our project documentation
+### Important links
 In this repository, you will find:
 1. Link to our Project - [EZLibrary](https://ezlibrary.online/)
 2. Our Project Documentation - [EZLibrary_By_Paul_&_Shubham.pdf](https://github.com/PaulFernandes-cloud/EZlibrary-project/blob/main/EZLibrary_By_Paul_%26_Shubham.pdf)
