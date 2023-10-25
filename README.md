@@ -44,15 +44,15 @@ Project Description: This is a free ebook library website where users can read a
 ![Screenshot 2023-10-19 192029](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/0478b040-9401-4f57-ac37-dcddf90a8390)
 ![Screenshot 2023-10-16 211630](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/24cae65d-13f3-4442-9247-2778a2231ff5)
 
-* profile
+* Profile
 ![Screenshot 2023-10-16 212127](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/04344594-8687-4c1a-a61c-9aea1710d02a)
 
 * Azure personalizer in action
-![Screenshot 2023-10-16 211800](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/639cf78d-6b06-4065-a601-5c632894a535)
 ![Screenshot 2023-10-16 211744](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/24b45a61-916f-4d79-a49d-754bc05047fb)
+![Screenshot 2023-10-16 211800](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/639cf78d-6b06-4065-a601-5c632894a535)
 
-
-
+### Conclusion
+This is just a short explanation of our project for in-depth explanation watch our video on youtube [EZLibrary using Azure Services - Project by Paul Fernandes & Shubham Chougule](https://youtu.be/6nYVCngpPgk?si=GvAzWVqKHvZVSriD) and for in detail description read our Project Documentation [EZLibrary_By_Paul_&_Shubham.pdf](https://github.com/PaulFernandes-cloud/EZlibrary-project/blob/main/EZLibrary_By_Paul_%26_Shubham.pdf)
 
 
 ### Support:
