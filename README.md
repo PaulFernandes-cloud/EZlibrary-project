@@ -9,7 +9,7 @@ In this repository, you will find:
 
 ## Project Title: EZLibrary using Azure Services
 
-Project Description: This is a free ebook library website where users can read and buy ebooks. The website is hosted on two Azure VMs and load balanced using an Application Gateway. The VMs are backed up using Recovery Service Vault. The website also features Azure Personalizer to recommend books to users. The website's domain name is [ezlibrary.online](https://ezlibrary.online/), which is registered with Namecheap. A DNS zone has been created in Azure and its nameservers have been delegated to Namecheap.
+Project Description: This is a free ebook library website where users can read and buy ebooks. The website is hosted on two Azure VMs and load-balanced using an Application Gateway. The VMs are backed up using Recovery Service Vault. The website also features Azure Personalizer to recommend books to users. The website's domain name is [ezlibrary.online](https://ezlibrary.online/), which is registered with Namecheap. A DNS zone has been created in Azure and its nameservers have been delegated to Namecheap.
 
 ### Azure Services Used:
 
@@ -32,15 +32,29 @@ Project Description: This is a free ebook library website where users can read a
 * To buy a book, click on the "Buy" button and follow the instructions.
 
 ### Screenshots:
+
 * HomePage
-![Screenshot 2023-10-25 200224](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/b2ee848d-3611-4fdf-882d-f6aa28c15e9a)
+![Screenshot 2023-10-25 200224](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/6ba2ebb4-f60a-426d-b1de-bdeeb56238f3)
+
 * Buy books page
 ![Screenshot 2023-10-16 210547](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/13bc7dd0-6f86-4b9a-b2cf-6e36d37081a4)
+
 * Library page
-![Screenshot 2023-10-16 210446](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/6ba2ebb4-f60a-426d-b1de-bdeeb56238f3)
+![Screenshot 2023-10-16 211659](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/e1484f07-c2a9-4b4d-9434-337d83bee2ae)
+![Screenshot 2023-10-19 192029](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/0478b040-9401-4f57-ac37-dcddf90a8390)
+![Screenshot 2023-10-16 211630](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/24cae65d-13f3-4442-9247-2778a2231ff5)
+
+* profile
+![Screenshot 2023-10-16 212127](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/04344594-8687-4c1a-a61c-9aea1710d02a)
+
+* Azure personalizer in action
+![Screenshot 2023-10-16 211800](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/639cf78d-6b06-4065-a601-5c632894a535)
+![Screenshot 2023-10-16 211744](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/24b45a61-916f-4d79-a49d-754bc05047fb)
+
+
 
 
 
 ### Support:
 
-If you have any questions or problems, please contact me at [your email address].
+If you have any questions or problems, please contact me at pgotall@gmail.com.
