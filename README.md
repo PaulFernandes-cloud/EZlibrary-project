@@ -31,6 +31,16 @@ Project Description: This is a free ebook library website where users can read a
 * To read a book, simply click on the cover.
 * To buy a book, click on the "Buy" button and follow the instructions.
 
+### Screenshots:
+* HomePage
+![Screenshot 2023-10-25 200224](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/b2ee848d-3611-4fdf-882d-f6aa28c15e9a)
+* Buy books page
+![Screenshot 2023-10-16 210547](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/13bc7dd0-6f86-4b9a-b2cf-6e36d37081a4)
+* Library page
+![Screenshot 2023-10-16 210446](https://github.com/PaulFernandes-cloud/EZlibrary-project/assets/80623192/6ba2ebb4-f60a-426d-b1de-bdeeb56238f3)
+
+
+
 ### Support:
 
 If you have any questions or problems, please contact me at [your email address].
