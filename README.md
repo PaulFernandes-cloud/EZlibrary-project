@@ -9,7 +9,7 @@ In this repository, you will find:
 
 ## Project Title: EZLibrary using Azure Services
 
-Project Description: This is an ebook library website where users can read and buy ebooks. The website is hosted on two Azure VMs and load-balanced using an Application Gateway. The VMs are backed up using Recovery Service Vault. The website also features Azure Personalizer to recommend books to users. The website's domain name is [ezlibrary.online](https://ezlibrary.online/), which is registered with Namecheap. A DNS zone has been created in Azure and its nameservers have been delegated to Namecheap.
+Project Description: This is an ebook library website where users can read and buy ebooks. The website is created using a WordPress template. The website is hosted on two Azure VMs and load-balanced using an Application Gateway. The VMs are backed up using Recovery Service Vault. The website also features Azure Personalizer to recommend books to users. The website's domain name is [ezlibrary.online](https://ezlibrary.online/), which is registered with Namecheap. A DNS zone has been created in Azure and its nameservers have been delegated to Namecheap.
 
 ### Azure Services Used:
 
